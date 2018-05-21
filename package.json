@@ -1,5 +1,5 @@
 {
-	"name": "Respond.js",
+	"name": "jay-respond",
 	"description": "min/max-width media query polyfill",
 	"version": "1.4.2",
 	"homepage": "https://github.com/scottjehl/Respond",
@@ -9,6 +9,7 @@
 		"email": "scott@filamentgroup.com",
 		"url": "https://filamentgroup.com"
 	},
+  	"main": "dest/respond.min.js",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/scottjehl/Respond.git"
