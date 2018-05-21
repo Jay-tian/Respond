@@ -1,5 +1,5 @@
 # Respond.js
-## add package.json main
+# 解决了webpack引用问题，以及package.json  添加main属性
 
 ### A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
 
